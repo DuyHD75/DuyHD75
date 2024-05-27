@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **duyduchosoftwaredev@gmail.com**
 
-<h3 align="left">Connect with me: duyduchosoftwaredev@gmail.com</h3>
+<h3 align="left">Connect with me: hoducduy0327113934@gmail.com</h3>
 <p align="left">
 </p>
 
