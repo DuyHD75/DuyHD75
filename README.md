@@ -2,7 +2,7 @@
 <h1 align="center">Hello Guys 👋, Welcome to DCode profile 🐳</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 
-- 📫 How to reach me **duyduchosoftwaredev@gmail.com**
+- 📫 How to reach me **hoducduy0327113934@gmail.com**
 
 <h3 align="left">Connect with me: hoducduy0327113934@gmail.com</h3>
 <p align="left">
